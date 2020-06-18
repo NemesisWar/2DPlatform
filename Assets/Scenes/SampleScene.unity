@@ -1077,7 +1077,12 @@ PrefabInstance:
     - target: {fileID: 8800701040347022764, guid: a91560727f65c30429097c5dd0282ccc,
         type: 3}
       propertyPath: _speed
-      value: 3
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8800701040347022764, guid: a91560727f65c30429097c5dd0282ccc,
+        type: 3}
+      propertyPath: _contactFilter.useLayerMask
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a91560727f65c30429097c5dd0282ccc, type: 3}

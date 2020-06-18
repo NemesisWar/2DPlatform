@@ -64,16 +64,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\AtlasMaker\Assets\Scripts\AtlasMaker.cs" />
-    <Compile Include="Assets\PhysicsMovement.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
-    <Compile Include="Assets\Scripts\EnablePhysicsPlatform.cs" />
-    <Compile Include="Assets\Scripts\EnemyWalk.cs" />
+    <Compile Include="Assets\Scripts\ControlledCollectibleObjects.cs" />
+    <Compile Include="Assets\Scripts\DestroyedCollictableObject.cs" />
+    <Compile Include="Assets\Scripts\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\JaguarTrigger.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Scripts\PointController.cs" />
     <Compile Include="Assets\Scripts\SpawnPoint.cs" />
-    <Compile Include="Assets\Scripts\TakeJaguar.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

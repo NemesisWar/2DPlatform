@@ -10,7 +10,6 @@ public class CameraMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
         _lookCameraPosition = _camera.position - new Vector3(_player.position.x, 0, 0);
     }
 
