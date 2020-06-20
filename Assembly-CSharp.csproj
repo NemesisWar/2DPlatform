@@ -65,13 +65,13 @@
   <ItemGroup>
     <Compile Include="Assets\AtlasMaker\Assets\Scripts\AtlasMaker.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
-    <Compile Include="Assets\Scripts\ControlledCollectibleObjects.cs" />
-    <Compile Include="Assets\Scripts\DestroyedCollictableObject.cs" />
+    <Compile Include="Assets\Scripts\CollectingItem.cs" />
     <Compile Include="Assets\Scripts\EnemyMovement.cs" />
     <Compile Include="Assets\Scripts\JaguarTrigger.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\SpawnPoint.cs" />
+    <Compile Include="Assets\Scripts\SpawnPointsController.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
