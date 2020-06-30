@@ -65,9 +65,9 @@
   <ItemGroup>
     <Compile Include="Assets\AtlasMaker\Assets\Scripts\AtlasMaker.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
-    <Compile Include="Assets\Scripts\CheckingCollectedAllObjects.cs" />
     <Compile Include="Assets\Scripts\CollectingItem.cs" />
     <Compile Include="Assets\Scripts\EnemyMovement.cs" />
+    <Compile Include="Assets\Scripts\GameFinishTrigger.cs" />
     <Compile Include="Assets\Scripts\JaguarTrigger.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
